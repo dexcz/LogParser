@@ -1,0 +1,8 @@
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\bin\Debug\LogParser.exe
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\bin\Debug\LogParser.pdb
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.Form1.resources
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.Properties.Resources.resources
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.csproj.GenerateResource.Cache
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.exe
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.pdb
+U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.csprojResolveAssemblyReference.cache
