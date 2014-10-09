@@ -32,6 +32,18 @@ namespace LogParser
         {
             try
             {
+
+                if (buttonCesta.Visible)
+                {
+                    buttonCesta.Visible = false;
+                }
+                if (listView1.Items.Count > 0)
+                {
+                    listView1.Items.Clear();
+                }
+
+
+
                 openFileDialogCesta.Filter = "Log Files (.log)|*.log|All Files (*.*)|*.*";
                 openFileDialogCesta.FilterIndex = 0;
                 //openFileDialogCesta.Multiselect = true;
@@ -262,6 +274,16 @@ namespace LogParser
                 //listView1.Location = new Point(listView1.Location.X, listView1.Location.Y - textBoxPodm_1.Height - 3);
                 listView1.Location = new Point(listView1.Location.X, listView1.Location.Y - textBoxPodm_1.Height - 3);
                 listView1.Height = listView1.Height + textBoxPodm_1.Height + 3;
+
+                if (buttonCesta.Visible)
+                {
+                    buttonCesta.Visible = false;
+                }
+                if (listView1.Items.Count > 0)
+                {
+                    listView1.Items.Clear();
+                }
+                
 
                 int count = groupBoxParametrers.Controls.Count;
 

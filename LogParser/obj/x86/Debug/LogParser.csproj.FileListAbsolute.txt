@@ -6,3 +6,11 @@ U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.csproj.
 U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.exe
 U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.pdb
 U:\Dropbox\_DOT NET Projects\LogParser\LogParser\obj\x86\Debug\LogParser.csprojResolveAssemblyReference.cache
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.exe
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.pdb
+u:\GitHub\LogParser\LogParser\bin\Debug\LogParser.exe
+u:\GitHub\LogParser\LogParser\bin\Debug\LogParser.pdb
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.csprojResolveAssemblyReference.cache
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.Form1.resources
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.Properties.Resources.resources
+u:\GitHub\LogParser\LogParser\obj\x86\Debug\LogParser.csproj.GenerateResource.Cache
